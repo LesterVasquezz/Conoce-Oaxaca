@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_e6156c87d81a4f28b2e6f33b07458f8ceddca3f5.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ff4d3904c33a53781345858d7b9cf8cb81eb778c.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_ba711101f149b533fc0d82cc3ac2eebcea24c68b.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_06f08240a5a6cfcc6c019c1ee1d14a7f54289bb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\USUARIO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9e807fd99b49ee19fa7e0e1faac299e877fc051c.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_3ac61f8a912fd003cd0e1643721bda5939f7dade.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_744ef8240df61cb6931f7c6cc24d79091bc61f34.jar" />
+    </item>
+    <item
+        jar="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Archivos Lester\juegos\ConoceOaxaca\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3a48d591c2f715f0d631f9ea5e5711c5f8e6f6cb.jar" />
+    </item>
+
+</items>

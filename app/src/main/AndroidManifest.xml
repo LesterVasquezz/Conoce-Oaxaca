@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cbtis.equipo.proyectooaxaca">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/oaxaca"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".PantallaDeBienvenida">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+        <activity
+            android:name=".MenuPrincipal"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            </activity>
+
+        <activity
+            android:name=".Caniada"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Costa"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".Istmo"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".Mixteca"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".Papaloapan"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".SierraNorte"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".SierraSur"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".VallesCentrales"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".TrajesRegionalesIstmo"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".OllasyArtesaniasIstmo"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".OjoDeAguaIstmo"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".GrutaTolistoqueIstmo"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".AlfareriaTradicionalCaniada"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".FigurillasDePalmaCaniada"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".RioGrandeCaniada"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".HongosCaniada"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".RebozosMixteca"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".FigurasArtesanalesDePalmaMixteca"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".AguasAzufradasMixteca"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".PiedraDelAguaMixteca"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".TrajeTipicoCosta"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".PlayaVirgenCosta"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".LagunaManialtepecCosta"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".CeramicaCosta"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".OllasDeBarroNegroVallesCentrales"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".TejateVallesCentrales"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".ArbolDelTuleVallesCentrales"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".CatedralSantoDomingoVallesCentrales"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".MolinillosSierraNorte"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".ArtesaniasMaderaSierraNorte"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".CapulalpanSierraNorte"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".CuajimoloyasSierraNorte"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".ProductosDePalmaSierraSur"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".TextilesDeLanaSierraSur"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".RioMiahuatlanSierraSur"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".MontaniaSanJoseSierraSur"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+        android:name=".HuipilesPapaloapan"
+        android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".MuniecasDeTrapoPapaloapan"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".PiedraQuemadaPapaloapan"
+            android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".ZuzulPapaloapan"
+            android:screenOrientation="portrait" ></activity>
+    </application>
+
+</manifest>

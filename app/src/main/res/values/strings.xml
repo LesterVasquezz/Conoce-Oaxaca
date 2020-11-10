@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Conoce Oaxaca</string>
+    <string name="action_settings">Settings</string>
+    <string name="bienvenida">Conoce Oaxaca</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="oaxaca">Oaxaca</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="preregion">¿En que Region se Encuentra?</string>
+
+    <string name="mixteca">La Mixteca</string>
+    <string name="infMixteca">La región conocida como La Mixteca, al noreste de la Ciudad de Oaxaca, parece un desierto, aunque en el pasado estuvo cubierta de bosques. El paisaje desolado y el proceso de desertificación son el resultado del mal uso que se le ha dado al suelo durante generaciones. Las causas que transformaron bosques en páramos son muchas y complejas.</string>
+    <string name="pregunta">¿En que esta Interesado?</string>
+    <string name="figurasDePalma">Figuras Artesanales de Palma</string>
+    <string name="infFiguras">El tejido de la palma es una costumbre que ha pasado de generación en generación en las familias mixtecas, sobre todo en los pueblos que están alejados de la ciudad, donde es común ver a señoras sentadas a las afueras de sus hogares, tejiendo con sus dedos desde bolsas hasta sombreros.</string>
+    <string name="huajuapam">Huajuapan de León,Oaxaca</string>
+    <string name="rebozo">Rebozos Bordados,Santiago Juxtlahuaca</string>
+    <string name="infRebozo">La mayoría de sus trabajos Mixtecos preservan técnicas prehispánicas de teñido realizado con el caracol púrpura, que forma parte de la identidad de la región Mixteca.Este tinte se logra con la ordeña del molusco marino sobre las madejasde hilo de algodón, que al reaccionar con el sol y el aire, se fija naturalmente ofreciendo un hermoso color violeta.</string>
+    <string name="juxtlahuaca">Santiago Juxtlahuaca,Oaxaca</string>
+    <string name="piedradelAgua">Piedra del agua</string>
+    <string name="infPiedra">“Piedra de Agua" es un paisaje creado por la misma naturaleza, sus cascadas, vegetación, clima, ríos, los nacimientos de aguas manantiales y sulfurosas lo convierten en un verdadero paraíso natural de La Mixteca.</string>
+    <string name="tamazulapam">Tamazulapam,Oaxaca</string>
+    <string name="aguasAzufradas">Aguas Azufradas</string>
+    <string name="infAguas">Es un manantial que ha sido adaptado como balneario con 3 albercas surtidas con aguas sulfurosas de circulación permanente.El área está dotada de jardines, árboles, palapas, asadores, bancas, juegos infantiles, restaurante y estacionamiento. </string>
+    <string name="atonaltzin">Atonaltzin,Oaxaca</string>
+
+
+    <string name="istmo">El Istmo</string>
+    <string name="infIstmo">La región del istmo es la más grande de Oaxaca, pues abarca un área de casi 20,000 km2 de extensión. Abarca dos distritos: Juchitán y Tehuantepec, con un total de 41 municipios. Dentro de esta tierra se esconden tesoros culturales milenarios, que luchan por mantenerse vivos en el cambiante mundo contemporáneo.</string>
+    <string name="trajesIstmo">Trajes Regionales Tipicos</string>
+    <string name="infTrajes">Las mujeres zapotecas del Istmo de Tehuantepec, y muy en especial las del municipio de Santa María Xadani, visten con gran orgullo su ropa típica regional que las identifica de otras culturas. La vestimenta de la mujer zapoteca varía de acuerdo con cada momento social; así tenemos vestimenta típica para fiestas, bodas, velas, misas, sepelios, de luto y para uso cotidiano; se diseñan y se combinan para cada ocasión.</string>
+    <string name="preUbicacion">¿Donde Encontrarlos?</string>
+    <string name="obtUbicacion">Obtener Ubicacion</string>
+    <string name="mercaJuch">Mercado 2 de noviembre, Juchitan</string>
+    <string name="ollasIstmo">Ollas y Artesanias de barro</string>
+    <string name="infOllas">Ollas, platos, tinacos, macetas, cántaros, muñecas… son algunos de los objetos rituales y decorativos que se producen en los talleres de alfarería instalados en este municipio zapoteca, donde unas cien familias resisten al menosprecio y discriminación de este oficio milenario, en tiempos que la idea de “progreso” amenaza las formas básicas de convivencia con la naturaleza y entre las personas.</string>
+    <string name="ixtaltepec">Asuncion Ixtaltepec,Oaxaca</string>
+    <string name="ojodeAgua">Ojo de Agua, Magdalena Tlacotepec</string>
+    <string name="infOjo">En la actualidad, el sitio está acondicionado como balneario. El agua es cristalina, y surge de una oquedad, al pie de frondosos árboles. A lo largo de su cauce se han acondicionado albercas y chapoteaderos, de forma rústica. Las instalaciones que complementan al balneario son: vestidores, sanitarios, juegos infantiles, estacionamiento, áreas para consumir alimentos y andadores.</string>
+    <string name="preUbicacion2">¿En Donde se Encuentra?</string>
+    <string name="tlacotepec">Magdalena Tlacotepec,Oaxaca</string>
+    <string name="laVenta">La Venta,Oaxaca</string>
+    <string name="grutaTolistoque">Gruta Tolistoque</string>
+    <string name="infGruta">Con una superficie mayor a las 35 mil hectáreas, la sierra Tolistoque guarda en sus entrañas uno de los ecosistemas más importantes en la región después de Los Chimalapas. En este sitio existe flora y fauna endémica en peligro de extinción que vale la pena conservar, además de un sinnúmero de escenarios naturales de extraordinaria belleza, como el cañón por donde pasa el arroyo denominado Ojo de Agua Tolistoque, que al bajar de la sierra forma una bufa de aire que emite fuertes sonidos en temporada de lluvia, por la crecida del arroyo.</string>
+
+
+    <string name="caniada">La Cañada</string>
+    <string name="infCaniada">La Cañada colinda con el estado de Puebla y es la región más pequeña al noroeste, con una extensión de 4,273 km2. La conforman los distritos de Cuicatlán y Teotitlán. Región de contrastes geográficos, su orografía accidentada determina una gran variedad de microclimas cuyas extensiones son de pocos kilómetros cuadrados y en consecuencia su flora y fauna son variadas.</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="alafareria">Alfareria Tradicional</string>
+    <string name="cuicatlan">Cuicatlán,Oaxaca</string>
+    <string name="figurillas">Figurillas de Palma</string>
+    <string name="infFigurillas">El tejido de este material tiene gran importancia en la economía del ixcateco. La mayor parte de la población se dedica a esta actividad artesanal que realizan en cuevas, lugares excavados en el patio de la casa. Este espacio mantiene una temperatura húmeda y adecuada para conservar blanda y suave la palma al momento de tejer.</string>
+    <string name="toxpalan">Toxpalan,Oaxaca</string>
+    <string name="rioGrande">Río Grande,Cuiclatlan</string>
+    <string name="infRio">El lugar con mayor concentración de vacacionistas es el puente de San Pedro bajo de esta estructura se encuentra el Rio Grande sus cristalinas y refrescantes aguas son aprovechadas por niños, jóvenes, mujeres, hombres personas de la tercera edad.</string>
+    <string name="hongos">Exposición de usos curativos de los hongos</string>
+    <string name="infHongos">Los llamados hongos sagrados, famosos por sus poderes curativos, son un atractivo para los vacacionistas en esta temporada de Semana Santa, quienes arriban a Huautla con la intención de conocer sus bondades.</string>
+    <string name="huautla">Huautla de Jiménez, Oaxaca</string>
+
+
+
+    <string name="lacosta">La costa</string>
+    <string name="infcosta">La Costa es una región oaxaqueña que se encuentra al sur del estado y colinda con el Oceano Pacifico y la Region del sur.Es una región turística, ya a nivel nacional, pues es donde se hayan las playas de Huatulco y de Puerto Escondido además de Juquila, que es el tercer mayor centro religioso de México.</string>
+    <string name="trajecosta">Trajes Tipicos de La Costa</string>
+    <string name="infTraje">El vestido Costeño cuya herencia es de origen prehispánico, y el vestido que corresponde al Distrito de Jamiltepec, en ellos notamos una verdadera influencia que podríamos llamarla de transición, ya que entre los adornos que le fueron impuestos a sus vestidos tienen representaciones de los elementos mitológicos indígenas, así como elementos de importación Europea.</string>
+    <string name="huatulco">Huatulco,Oaxaca</string>
+    <string name="ceramica">Ceramica De Colores</string>
+    <string name="infCeramica">Los objetos de cerámica más comunes son ollas, cántaros, tinajas, cajetes, jarros, candeleros y esculturas humanas y de animales, personajes fantásticos y nacimientos de Navidad. La técnica en este tipo de trabajo de alfarería es de origen indígena y consiste en mezclar en barro con algodón desmenuzado, sobre el cual se pintan con pinceles dibujos de diferentes colores.</string>
+    <string name="puertoEsc">Puerto Escondido Oaxaca</string>
+    <string name="playavirgen">Playa Virgen de San Agustin</string>
+    <string name="infplaya">Está protegida por islas rocosas y farallones, siendo la isla San Agustín la más extensa de todo Bahías de Huatulco. Por la gran cantidad de arrecifes que tiene la bahía, es un lugar ideal para la práctica del buceo.</string>
+    <string name="sanAgustin">San Agustin,Huatulco,Oaxaca</string>
+    <string name="lagunamanialtepec">Laguna de Manialtepec</string>
+    <string name="infLaguna">Es un sitio de excepcional belleza, rodeado de exuberante vegetación de manglar.Esta laguna, de aproximadamente 6 kilómetros de longitud, cuenta con pequeñas áreas de playa donde se pueden pescar especies de mojarra, robalo o bagre.</string>
+
+
+    <string name="vallesCentrales">Valles Centrales</string>
+    <string name="infVallesCentrales">Los Valles Centrales de Oaxaca se ubican en la parte centro del estado. Limitan al oeste con la región de la Mixteca, al noroeste con la Cañada, al norte con la Sierra de Juárez, al este con el Istmo de Tehuantepec y al sur con la Sierra del Sur. </string>
+    <string name="ollasDeBarroNegro">Ollas de Barro Negro"</string>
+    <string name="infOllasBarroNegro">El barro se extrae de un paraje cercano al pueblo, y contrario a lo que la gente pudiera pensar, no es negro.  El color tan característico se obtiene mediante una técnica del cocimiento del barro, el cual se realiza en un horno de dos bocas</string>
+    <string name="sanBartolo">San Bartolo Coyotepec, Oaxaca</string>
+    <string name="tejateVallesCentrales">Tejate Artesanal</string>
+    <string name="infTejate">Esta bebida tradicional se considera importante en la cocina, nutrición y agricultura, relacionada con la producción de maíz en los Valles Centrales de Oaxaca. Es sabrosa y refrescante, vigorizante por sus nutrientes.</string>
+    <string name="mercadoCentenario">Mercado Centenario,Oaxaca</string>
+    <string name="catedralSantoDomingo">Catedral Santo Domingo</string>
+    <string name="infCatedral">El ex convento de Santo Domingo de Guzmán,es quizá, la construcción virreinal en pie más grande e importante de México y probablemente de toda América, debido a su monumentalidad, su valor artístico y el papel que desempeñó como centro de evangelización y de promoción cultural para el territorio de lo que es actualmente el Estado de Oaxaca.</string>
+    <string name="centroHistoricoOaxaca">Centro histórico de Oaxaca</string>
+    <string name="arbolDelTule">Arbol del Tule</string>
+    <string name="infArbolDelTule">El Árbol del Tule, uno de los más grandes y antiguos del mundo, es un ahuehuete o sabino con más de 2 mil años de vida el cual se ha convertido en un atractivo turístico de visita obligada para nacionales y extranjeros.</string>
+    <string name="santaMariaTule">Santa Maria del Tule, Oaxaca</string>
+
+
+    <string name="sierraNorte">Sierra Norte</string>
+    <string name="infSierraNorte">La Sierra Norte es reconocida como una importante área, debido a que la variedad de microambientes que se encuentran en la región sustenta una abundante diversidad de flora y fauna.</string>
+    <string name="artesaniasSierraNorte">Artesanias de Madera</string>
+    <string name="infArtSierraNorte">La elaboración depende del tamaño y tipo de madera que se utilice, pero en promedio tardan dos horas para el corte y tallado y otra hora más para la aplicación de pintura, para ello utilizan machete, segueta, diferentes formones y mazos con los que dan forma a una verdadera artesanía.</string>
+    <string name="villaAlta">San Pedro Cajonos,Villa Alta, Oaxaca</string>
+    <string name="molinillos">Molinillos</string>
+    <string name="infMolinillos">Los Molinillos son moledores manuales tallados en madera de Aile, ya que su principal característica es que no deja sabor a los líquidos. Son usados en todo el estado para preparar el delicioso chocolate.</string>
+    <string name="santaCatarina">Santa Catarina Ixtepeji,Oaxaca</string>
+    <string name="capulalpam">Capulálpam</string>
+    <string name="infCapulalpam">Este Pueblo Mágico de Oaxaca encanta a sus visitantes con sus fiestas, tradiciones zapotecas y sorprendente entorno natural. En Capulálpam encontrarás desde hermosos templos coloniales hasta parajes perfectos para escalar, realizar tranquilas caminatas y observar los bosques de coníferas de la Sierra de Juárez.</string>
+    <string name="lugCapulalpam">Capulálpam, Oaxaca</string>
+    <string name="SanAntonioCuajimoloyas">San Antonio Cuajimoloyas</string>
+    <string name="infCuajimoloyas">San Antonio Cuajimoloyas es una de las poblaciones serranas ubicadas a mayor altitud en la región: 3,200 metros sobre el nivel del mar. En su territorio cuenta con bellísimos parajes, majestuosos escenarios y sitios naturales, que lo convierten en el sitio ideal para realizar recorridos a pie o en bicicleta, entre otras actividades.</string>
+    <string name="SantAntonio">San Antonio Cuajimoloyas, Oaxaca</string>
+
+
+    <string name="sierraSur">Sierra Sur</string>
+    <string name="infSierraSur">Cerca de la costa oaxaqueña, rodeadas por un bello entorno de flora y fauna abundantes, y favorecidas por un agradable clima durante el año, se encuentran varias fincas cafetaleras, que han abierto sus puertas a los visitantes, quienes pueden conocer el proceso del café, recorrer los hermosos alrededores, o sólo relajarse y descansar en medio de la exuberante naturaleza del sitio.</string>
+    <string name="textilesAlgodonSierraSur">Productos Textiles de Lana</string>
+    <string name="infTextiles">EL proceso de elaboración de estos productos de lana es muy complejo, ya que inicia desde esquilar a los borregos, hasta lavar y carmenar la lana, hilar y tejer.</string>
+    <string name="miahuatlan">Miahuatlan de Porfirio Diaz,oaxaca</string>
+    <string name="prodDePalmSierSur">Productos de Palma</string>
+    <string name="infProducPalmas">La Palma con la que se tejen cestas, escobas y sombreros, procede del palmito. La hoja se puede aprovechar de dos maneras. Por un lado recolectando hojas abiertas, que posteriormente son secadas al sol. Se usan para hacer espuertas bastas y escobas. Y por otra parte, los cogollos, que son las nuevas hojas que se emplea para trabajos más finos, como cestos, botelleros, capachas, etc.</string>
+    <string name="mixtepec">Mixtepec,Oaxaca</string>
+    <string name="sanJose">Montañas de San José del Pacifico</string>
+    <string name="infSanJose">San José del Pacífico es un pueblo donde la magia existe... a una altitud de 2500 metros sobre nivel de mar encontrará a una comunidad arraigada en sus tradiciones. Nuestro pueblo está rodeado de árboles antiguos, nubes, aire y agua pura.</string>
+    <string name="lugSanJose">San José del Pacífico, Oaxaca</string>
+    <string name="rioMiahuatlan">Rio Miahuatlan</string>
+    <string name="infRioMiahuatlan">Hermoso rio de agua fría que se origina en las faldas de los cerros de la comunidad llamada San Miguel Yogovana. En épocas de calor todo mundo quiere encontrar un buen sitio en este lugar para poder nadar y disfrutar con la familia.</string>
+
+    <string name="papaloapan">Papaloapan</string>
+    <string name="infPapaloapan"> La región de Cuenca del Papaloapan o de Tuxtepec, una de las 8 regiones del estado de Oaxaca, es considerada una de las regiones más fértiles del país por su riqueza vegetal y humana.</string>
+    <string name="huipilesPapaloapan">Huipiles Tipicos de la Region</string>
+    <string name="infHuipiles">Los huipiles se presentan en sus diversos estilos, colores y versiones. Los hay de luto, medio luto, diario, boda, gala y media gala. Cada uno de los huipiles posee características y atributos especiales que los diferencian de los demás municipios y que cuentan parte de su historia.</string>
+    <string name="mercadoDeOjitlan">Mercado de textiles Ojitlán, Oaxaca</string>
+    <string name="muniecasDeTrapo">Muñecas de Trapo</string>
+    <string name="infMunieca">Entre las artesanías mexicanas, una de las que más llaman la atención a los extranjeros son las muñecas de trapo, estas piezas son elaboradas por manos y materiales mexicanos; con la vestimenta y los listones coloridos hacen alusión a los trajes típicos de las mujeres.</string>
+    <string name="MercadoPapaloapan2">Mercado Central Tuxtepec, Oaxaca</string>
+    <string name="zuzulPapaloapan">Zuzul</string>
+    <string name="infZuzul">Un paradisiaco lugar en donde te recibirá un manantial en cuyas aguas podrás nadar tranquilamente. El agua que brota de él es totalmente limpia y transparente e incluso podrás ver charales y mojarras nadando por ahí.</string>
+    <string name="tuxtepec">San Juan Bautista Tuxtepec, Oaxaca</string>
+    <string name="tuxtepec2">Tuxtepec, Oaxaca</string>
+    <string name="piedraQuemadaPapaloapan">Piedra Quemada</string>
+    <string name="infPiedraQuemada">La región posee numerosos balnearios; de los más atractivos se encuentran en otros, municipios pertenecientes al afluente del Río Valle Nacional; como lo son Zuzul, Los Cocos, Piedra Quemada</string>
+
+</resources>
